@@ -1,5 +1,5 @@
 /*
-* File: App.java
+* File: Employee.java
 * Author: Cipola Ákos
 * Copyright: 2025, Cipola Ákos
 * Group: IN

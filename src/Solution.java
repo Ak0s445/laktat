@@ -1,5 +1,5 @@
 /*
-* File: App.java
+* File: Solution.java
 * Author: Cipola Ákos
 * Copyright: 2025, Cipola Ákos
 * Group: IN
